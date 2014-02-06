@@ -1,1 +1,2 @@
 C:\Users\Livia\Desktop\AplicatieEmail\AplicatieEmail\bin\Debug\AplicatieEmail.exe.config
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\bin\Debug\AplicatieEmail.exe.config

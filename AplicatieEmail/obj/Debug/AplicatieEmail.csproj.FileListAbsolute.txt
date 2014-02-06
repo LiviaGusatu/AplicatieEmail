@@ -1,2 +1,9 @@
 C:\Users\Livia\Desktop\AplicatieEmail\AplicatieEmail\bin\Debug\AplicatieEmail.exe.config
 C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\bin\Debug\AplicatieEmail.exe.config
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\obj\Debug\AplicatieEmail.csprojResolveAssemblyReference.cache
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\obj\Debug\AplicatieEmail.Properties.Resources.resources
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\obj\Debug\AplicatieEmail.csproj.GenerateResource.Cache
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\bin\Debug\AplicatieEmail.exe
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\bin\Debug\AplicatieEmail.pdb
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\obj\Debug\AplicatieEmail.exe
+C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\obj\Debug\AplicatieEmail.pdb

@@ -1,4 +1,2 @@
-﻿// Default code generation is disabled for model 'C:\Users\Livia\Desktop\AplicatieEmail\AplicatieEmail\DBEmail.edmx'. 
-// To enable default code generation, change the value of the 'Code Generation Strategy' designer
-// property to an alternate value. This property is available in the Properties Window when the model is
-// open in the designer.
+﻿// Seeing this comment implies that the code generation for file 'C:\Users\andreea\Documents\GitHub\AplicatieEmail\AplicatieEmail\DBEmail.edmx'
+// failed. See the ErrorList for details.
